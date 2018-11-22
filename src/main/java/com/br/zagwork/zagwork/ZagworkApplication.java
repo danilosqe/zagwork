@@ -1,12 +1,12 @@
-package br.com.zagwork;
+package com.br.zagwork.zagwork;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ZagWorkApplication {
+public class ZagworkApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ZagWorkApplication.class, args);
+		SpringApplication.run(ZagworkApplication.class, args);
 	}
 }
